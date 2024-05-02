@@ -1,16 +1,8 @@
-# flutter_formuscine
+# Teste técnico Formus Digital
 
-A new Flutter project.
+Implementação de um app onde exibe os 10 filmes mais vistos no EUA, usando Dart, Flutter, Mobx e MVC
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#imagens do projeto:
+![Screenshot_1714640934](https://github.com/llimamoura/FormusCine/assets/81448870/abb3093c-00a1-455f-b30d-d8700a93f0be)
+![Screenshot_1714640946](https://github.com/llimamoura/FormusCine/assets/81448870/1e270763-8f04-4ca2-bb44-8ec8aaf02af8)
+![Screenshot_1714640940](https://github.com/llimamoura/FormusCine/assets/81448870/3fba9a39-8c1c-44b2-af09-5d51b82c7353)
