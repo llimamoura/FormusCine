@@ -1,5 +1,3 @@
-# Teste técnico Formus Digital
-
 Implementação de um app onde exibe os 10 filmes mais vistos no EUA, usando Dart, Flutter, Mobx e MVC
 
 imagens do projeto:
